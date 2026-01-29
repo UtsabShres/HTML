@@ -1,5 +1,3 @@
-# HTML
-
 # Personal Portfolio Website
 
 This project is a simple **personal portfolio website** built using **pure HTML**.  
